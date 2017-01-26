@@ -32,7 +32,8 @@ function draw() {
   colorMode(RGB);
 
   //select background color and alpha for canvas
-  background(0,24,72,50);
+  //background(0,24,72,50);
+  background(0,51,102,50);
 
   if(random(1)<0.008)
   {
